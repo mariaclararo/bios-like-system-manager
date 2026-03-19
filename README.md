@@ -18,7 +18,7 @@ A comprehensive Shell Script utility developed for the Operating Systems Lab at 
 
 ## 📸 Interface Preview
 
-Below are some screenshots of the BIOS-like interface running on a Linux terminal:
+Some screenshots of the BIOS-like interface running on a Linux terminal:
 
 <p align="center">
   <img src="screenshots/main_menu.png" width="45%" alt="Main BIOS Menu" />
