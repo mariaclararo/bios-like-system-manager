@@ -12,5 +12,23 @@ A comprehensive Shell Script utility developed for the Operating Systems Lab at 
 - Linux Environment
 - `dialog` package installed (`sudo apt install dialog`)
 
+## 🚀 How to use
+1. Give execution permission: `chmod +x trabalhoSO.sh`
+2. Run: `./trabalhoSO.sh`
+
+## 📸 Interface Preview
+
+Below are some screenshots of the BIOS-like interface running on a Linux terminal:
+
+<p align="center">
+  <img src="screenshots/main_menu.png" width="45%" alt="Main BIOS Menu" />
+  <img src="screenshots/sys_info.png" width="45%" alt="System Information" />
+</p>
+<p align="center">
+  <img src="screenshots/c_compiler_output.png" width="45%" alt="C Compiler Output" />
+  <img src="screenshots/security_settings.png" width="45%" alt="Security Settings" />
+</p>
+
+*From left to right: Main Menu, System Information Display, C Compiler & Execution Output, and Security Configuration.*
 ---
 *Developed as a final assignment for the Operating Systems course.*
