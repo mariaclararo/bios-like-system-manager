@@ -29,6 +29,6 @@ Below are some screenshots of the BIOS-like interface running on a Linux termina
   <img src="screenshots/security_settings.png" width="45%" alt="Security Settings" />
 </p>
 
-*From left to right: Main Menu, System Information Display, C Compiler & Execution Output, and Security Configuration.*
+<sub>*From left to right: Main Menu, System Information Display, C Compiler & Execution Output, and Security Configuration.*
 ---
 *Developed as a final assignment for the Operating Systems course.*
